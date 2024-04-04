@@ -12,7 +12,7 @@ home_repo: "https://blog.tawertwtc.xyz"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大切な人といつかまた巡り会えますように"
+sidebar-about-description: "一言,一行,一走,一生。"
 sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
